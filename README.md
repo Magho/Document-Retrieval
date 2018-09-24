@@ -5,7 +5,7 @@ Document retrieval from wikipedia data using Graphlab
 - graphlab
 
 ## Used data set 
-[people_wiki.gl](link to the data you upload)
+[people_wiki.gl](https://github.com/Magho/Document-Retrieval/tree/master/people_wiki.gl)
 
 # Algorithms used :
 -  nearest_neighbors with count words.
